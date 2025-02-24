@@ -1,0 +1,4 @@
+svgwrite 
+PyPDF2 
+openai
+dotenv
