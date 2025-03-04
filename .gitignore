@@ -2,3 +2,5 @@ notes.md
 venv/
 .env
 ripen-brandbook.pdf
+temp.py
+temp.svg

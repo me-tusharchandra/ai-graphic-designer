@@ -1,0 +1,21 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#ffffff"/>
+    <circle cx="600" cy="315" r="200" fill="#FF5733" opacity="0.7"/>
+    <circle cx="600" cy="315" r="230" fill="#F3FF33" opacity="0.5"/>
+    <text x="600" y="250" font-family="Arial, sans-serif" font-size="32" fill="#3357FF" text-anchor="middle" dominant-baseline="central" font-weight="bold">
+        Ripen.in
+    </text>
+    <text x="600" y="350" font-family="Arial, sans-serif" font-size="24" fill="#FF33F3" text-anchor="middle" dominant-baseline="central" font-weight="normal" opacity="0.9">
+        "It Always Seems Impossible Until It's Done"
+    </text>
+    <text x="1150" y="610" font-family="Arial, sans-serif" font-size="12" fill="#aaaaaa" text-anchor="end" dominant-baseline="central">
+        Watermark: generated with gpt-4o-mini
+    </text>
+<metadata id="metadata">
+<data id="design-info">
+<![CDATA[
+{"brand_name": "Ripen.in", "brand_description": "A venture studio dedicated to creating transformative digital products and services that leverage the internet", "design_description": "we need a quote \"It Always Seems Impossible Until It's Done\" in the center and our logo on the top with fancy design element of circle and a highlight behind the circle and the quote should overlay on the top of the circle element", "model_used": "gpt-4o-mini"}
+]]>
+</data>
+</metadata>
+</svg>

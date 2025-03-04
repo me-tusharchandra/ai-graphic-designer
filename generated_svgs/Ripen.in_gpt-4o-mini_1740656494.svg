@@ -1,0 +1,41 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <defs>
+    <filter id="highlight">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="15" result="blur"/>
+      <feFlood flood-color="rgba(255, 255, 255, 0.3)" />
+      <feComposite in2="blur" operator="in" />
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <circle cx="600" cy="315" r="250" fill="#FF5733" filter="url(#highlight)" />
+  <circle cx="600" cy="315" r="230" fill="#33FF57" />
+  
+  <text x="600" y="315" font-family="Arial, sans-serif" font-size="36" fill="#3357FF" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">
+    It Always Seems Impossible Until It's Done
+  </text>
+  
+  <text x="600" y="250" font-family="Arial, sans-serif" font-size="48" fill="#F3FF33" text-anchor="middle" dominant-baseline="middle" font-weight="bold">
+    Ripen.in
+  </text>
+  
+  <text x="1150" y="620" font-family="Arial, sans-serif" font-size="12" fill="#FF33F3" opacity="0.5">
+    Watermark: generated with gpt-4o-mini
+  </text>
+
+    <image x="500" y="50" width="200" height="200" 
+           xlink:href="data:image/png;base64,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"
+           preserveAspectRatio="xMidYMid meet" />
+    
+<metadata id="metadata">
+<data id="design-info">
+<![CDATA[
+{"brand_name": "Ripen.in", "brand_description": "A venture studio dedicated to creating transformative digital products and services that leverage the internet", "design_description": "we need a quote \"It Always Seems Impossible Until It's Done\" in the center and our logo on the top with fancy design element of circle and a highlight behind the circle and the quote should overlay on the top of the circle element", "model_used": "gpt-4o-mini"}
+]]>
+</data>
+</metadata>
+</svg>

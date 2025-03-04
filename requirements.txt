@@ -2,3 +2,8 @@ svgwrite
 PyPDF2 
 openai
 dotenv
+fastapi 
+uvicorn 
+python-multipart 
+pillow 
+anthropic

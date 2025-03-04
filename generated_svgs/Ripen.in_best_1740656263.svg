@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+svg
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#FFF" />
+  
+  <!-- Custom Circular Elements -->
+  <circle cx="600" cy="315" r="180" fill="none" stroke="#FF5733" stroke-width="8" opacity="0.5"/>
+  <circle cx="600" cy="315" r="140" fill="none" stroke="#33FF57" stroke-width="8" opacity="0.6"/>
+  <circle cx="600" cy="315" r="100" fill="none" stroke="#3357FF" stroke-width="8" opacity="0.7"/>
+  
+  <!-- Center Highlight Ellipse -->
+  <ellipse cx="600" cy="315" rx="230" ry="120" fill="#F3FF33" opacity="0.25"/>
+  
+  <!-- Logo and Brand Name -->
+  <text x="50%" y="80" font-family="Arial, sans-serif" font-size="48" fill="#FF33F3" text-anchor="middle">
+    Ripen.in
+  </text>
+  
+  <!-- Quote Text -->
+  <text x="50%" y="320" font-family="Verdana, sans-serif" font-size="36" fill="#333" text-anchor="middle" font-weight="bold">
+    "It Always Seems Impossible
+  </text>
+  <text x="50%" y="370" font-family="Verdana, sans-serif" font-size="36" fill="#333" text-anchor="middle" font-weight="bold">
+    Until It's Done"
+  </text>
+  
+  <!-- Watermark -->
+  <text x="50%" y="610" font-family="Arial, sans-serif" font-size="12" fill="#CCC" text-anchor="middle">
+    Generated with gpt-4o
+  </text>
+<metadata id="metadata">
+<data id="design-info">
+<![CDATA[
+{"brand_name": "Ripen.in", "brand_description": "A venture studio dedicated to creating transformative digital products and services that leverage the internet", "design_description": "we need a quote \"It Always Seems Impossible Until It's Done\" in the center and our logo on the top with fancy design element of circle and a highlight behind the circle and the quote should overlay on the top of the circle element", "model_used": "gpt-4o"}
+]]>
+</data>
+</metadata>
+</svg>
+<metadata id="metadata">
+<data id="design-info">
+<![CDATA[
+{"brand_name": "Ripen.in", "brand_description": "A venture studio dedicated to creating transformative digital products and services that leverage the internet", "design_description": "we need a quote \"It Always Seems Impossible Until It's Done\" in the center and our logo on the top with fancy design element of circle and a highlight behind the circle and the quote should overlay on the top of the circle element", "model_used": "gpt-4o"}
+]]>
+</data>
+</metadata>
+</svg>
