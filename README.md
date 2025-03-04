@@ -1,4 +1,4 @@
-# SVG Design Generator API
+# SVG Design Generator API - [DEMO 🎬](https://www.youtube.com/watch?v=6A6fipaYcuo)
 
 A FastAPI application that generates and edits SVG designs using OpenAI's GPT models.
 
